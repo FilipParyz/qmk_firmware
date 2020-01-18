@@ -1,4 +1,4 @@
-// Alternative keymap only
+// Paryz's keymap only
 #ifndef CONFIG_H
 #define CONFIG_H
 

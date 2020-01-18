@@ -1,3 +1,4 @@
+// Paryz's keymap
 #include QMK_KEYBOARD_H
 
 #define HOME 0

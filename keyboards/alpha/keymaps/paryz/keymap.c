@@ -1,5 +1,6 @@
 // Paryz's keymap
 #include QMK_KEYBOARD_H
+#include "config.h"
 
 #define HOME 0
 #define NUM_PUNC 1

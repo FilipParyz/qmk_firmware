@@ -22,15 +22,15 @@ const rgblight_segment_t PROGMEM my_capslock_layer[] = RGBLIGHT_LAYER_SEGMENTS(
 );
 // Light all LEDs in green when keyboard layer 1 is active
 const rgblight_segment_t PROGMEM my_layer1_layer[] = RGBLIGHT_LAYER_SEGMENTS(
-    {0, 9, HSV_GREEN}
+    {6, 6, HSV_GREEN}
 );
 // Light all LEDs in blue when keyboard layer 2 is active
 const rgblight_segment_t PROGMEM my_layer2_layer[] = RGBLIGHT_LAYER_SEGMENTS(
-    {9, 9, HSV_BLUE}
+    {6, 6, HSV_MAGENTA}
 );
 // Light all LEDs in yellow when keyboard layer 3 is active
 const rgblight_segment_t PROGMEM my_layer3_layer[] = RGBLIGHT_LAYER_SEGMENTS(
-    {6, 6, HSV_YELLOW}
+    {6, 6, HSV_ORANGE}
 );
 
 
